@@ -13,7 +13,7 @@
 <p>
   
 <p align='center'>
-  <h3>Skills I'm Learning & Tools I Used</h3>
+  Skills I'm Learning & Tools I Used
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 <p>
