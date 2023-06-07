@@ -3,5 +3,9 @@
 </h1>
 
 <p align='center'>
-  A .Net developer from Philippines.
+  A .Net Developer from Philippines.
 </p>
+
+<p align='center'>
+  
+<p>
