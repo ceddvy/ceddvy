@@ -1,12 +1,13 @@
-<h1 align='center'>
-  Hi, I'm Cedric 👋
-</h1>
+<img src="https://github.com/ceddvy/ceddvy/assets/104047170/cfed48d5-8f83-48ac-b9de-8797fb45c0aa"/>
+
 
 <p align='center'>
   A Entry-Level .Net Developer from Philippines.
 </p>
 
+
 <p align='center'>
+  
   <a href="https://www.linkedin.com/in/john-cedric-bernardo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
