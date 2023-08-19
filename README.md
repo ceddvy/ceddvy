@@ -16,9 +16,10 @@
   </a>&nbsp;&nbsp;
 <p>
   
-<p align='center'>
+<p align='start'>
   Skills I'm Learning & Tools I Used<br/><br/>
-  
+<p>
+
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,7 +29,7 @@
   
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> 
@@ -37,20 +38,21 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   
-<p>
-  
  <details>
    <summary>📃 Education</summary>
    
    - **BS Computer Engineering** (2019-2023)\
    📍 **Rizal Technological University** - Mandaluyong, Philippines<br/>
+   - **Information Communication Technology** (2016-2019)\
+   📍 **Arellano University - Pasig, Philippines<br/>
+</details>
    
-   Learning Resources:
+   **Learning Resources:**
    
-   <img src="https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=Microsoft%20Academic&logoColor=white" />
-   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /><br\>
+   <img src="https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=Microsoft%20Academic&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
    
-  Achievements:
+  **Achievements:**
    
    <a href="https://www.cloudskillsboost.google/public_profiles/7db256e7-8e62-497c-996f-31cbaecd2e1c">
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
