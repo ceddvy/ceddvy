@@ -44,7 +44,7 @@
    - **BS Computer Engineering** (2019-2023)\
    📍 **Rizal Technological University** - Mandaluyong, Philippines<br/>
    - **Information Communication Technology** (2016-2019)\
-   📍 **Arellano University - Pasig, Philippines<br/>
+   📍 **Arellano University** - Pasig, Philippines<br/>
 </details>
    
    **Learning Resources:**
